@@ -1,17 +1,24 @@
-# uiassignment-ryx97f
+# Angular CRUD Operation 
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/uiassignment-ryx97f)
 
-This application is developed using angular 8, html, css.
-Basically , I have performed CRUD Operation here with JSON.
-You can view the demo and code on the stackblitz. 
+<p>In this application CRUD Operation is performed using angular 8, html, css,JSON.</p>
+
 If you have to run the application please clone it or download it on your local machine and follow the below commands.
 
 Check the prerequistie on your machine .
-<bold>Prerequisites</bold>
+**Prerequisites**
+*Node*
+*NPM*
+*Angular CLI*
+If these are not installed on your machine please install before starting the angular project.
 
-open command line intreface and use below commands:
+#Open command line intreface and use below commands:#
 <pre>npm install -g @angular/cli</pre>
-<pre>ng new my-dream-app</pre>
-<pre>cd my-dream-app</pre>
+<p>If you have cloned/downloaded this project on your local then you need to run command <pre>npm install</pre> in the folder stucture.
+and <pre>ng serve</pre>
+if you are creating new project run below commands: 
+<pre>ng new CRUD-app</pre>
+<pre>cd CRUD-app</pre>
+<bold>Start the development server</bold>
 <pre>ng serve</pre>
