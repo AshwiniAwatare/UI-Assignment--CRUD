@@ -10,12 +10,13 @@ If you have to run the application please clone it or download it on your local 
 - Node
 - NPM
 - Angular CLI
-If these are not installed on your machine please install before starting the angular project.
+<p>If these are not installed on your machine please install before starting the angular project.</p>
 
 #Open command line intreface and use below commands:#
 <pre>npm install -g @angular/cli</pre>
-<p>If you have cloned/downloaded this project on your local then you need to run command <pre>npm install</pre> in the folder stucture.
-and <pre>ng serve</pre>
+<p>If you have cloned/downloaded this project on your local then you need to run command in the folder stucture
+<pre>npm install</pre> 
+
 if you are creating new project run below commands: 
 <pre>ng new CRUD-app</pre>
 <pre>cd CRUD-app</pre>
