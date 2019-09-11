@@ -1,0 +1,23 @@
+[
+        {
+        "firstName":"Ashwini",
+        "lastName":"Awatare",
+        "email":"ashwini.awatare@gmail.com",
+        "phoneNo":9292929292,
+        "status":"Active"
+        },
+        {
+        "firstName":"Ashwini",
+        "lastName":"Awatare",
+        "email":"ashwini.awatare@gmail.com",
+        "phoneNo":9292929292,
+        "status":"Inactive"
+        },
+        {
+        "firstName":"Ashwini",
+        "lastName":"Awatare",
+        "email":"ashwini.awatare@gmail.com",
+        "phoneNo":9292929292,
+        "status":"Active"
+        }
+    ]

@@ -1,0 +1,57 @@
+/* Add application styles & imports to this file! *//* You can add global styles to this file, and also import other style files */
+
+.data-table table{ 
+  border-collapse: collapse;
+  width:100%;
+}
+.data-table table td, .data-table table th{
+  padding: 10px;
+  text-align: left;
+  border:1px solid #dfdfdf;
+}
+.data-table table  tr:nth-child(even) {
+  background-color: #eee;
+}
+.data-table table  tr:nth-child(odd) {
+  background-color: #fff;
+}
+.data-table table  th {
+  background-color: black;
+  color: #fff;
+}
+button {
+  border: 1px solid #dfdfdf;
+  background: no-repeat;
+  border-radius: 5px;
+  padding: 5px 10px;
+  min-width: 60px;
+  cursor: pointer;
+  background:#fff;
+}
+button:hover
+{
+  background: #f2f2f2;
+}
+.data-table {
+  max-height: 450px;
+  overflow: auto;
+  border: 1px solid #dfdfdf;
+  border-top:none;
+  clear: both;
+}
+input{
+  border: none;
+  border-bottom: 1px solid #dfdfdf;
+  padding: 4px 0;
+  width:100%;
+  background: transparent;
+}
+input:focus{
+  outline: none;
+}
+.pull-right{
+  float:right;
+}
+.half-margin-right{
+  margin-right:10px;
+}
