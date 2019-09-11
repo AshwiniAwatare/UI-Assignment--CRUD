@@ -6,11 +6,10 @@
 
 If you have to run the application please clone it or download it on your local machine and follow the below commands.
 
-Check the prerequistie on your machine .
 **Prerequisites**
-*Node*
-*NPM*
-*Angular CLI*
+- Node
+- NPM
+- Angular CLI
 If these are not installed on your machine please install before starting the angular project.
 
 #Open command line intreface and use below commands:#
